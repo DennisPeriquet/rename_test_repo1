@@ -1,2 +1,2 @@
-# rename_test_repo1
+# A repo for testing main branch renaming
 Use this repo to check that branch renaming can happen between main
